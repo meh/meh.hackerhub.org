@@ -12,8 +12,9 @@
 			"title" : "meh. A blog",
 			"type" : "blog",
 			"content" : {
+				"First post" : {
 					"created" : "03.10.2011",
-					"content" : "https://github.com/wut"
+					"content" : "https://raw.github.com/meh/meh.hackerhub.com/master/blog/first-post.md"
 				}
 			}
 		},
