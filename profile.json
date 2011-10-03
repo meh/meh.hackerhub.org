@@ -1,0 +1,27 @@
+{
+	"settings" : {
+		"id" : "meh",
+		"name" : "Profile Template",
+		"avatar" : "https://secure.gravatar.com/avatar/0358ba129df9a3593f7859b01b5d0747?s=140",
+		"disqus_shortname" : "m-e-h",
+		"enable_search" : true
+	},
+
+	"content" : {
+		"blog" : {
+			"title" : "meh. A blog",
+			"type" : "blog",
+			"content" : {
+					"created" : "03.10.2011",
+					"content" : "https://github.com/wut"
+				}
+			}
+		},
+
+		"twitter":{
+			"title" : "@meh99",
+			"type" : "twitter",
+			"username" : "meh99"
+		}
+	}
+}
